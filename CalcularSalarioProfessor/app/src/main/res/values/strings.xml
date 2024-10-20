@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calcular Salario Professor</string>
+    <string name="calcular">Calcular Salario</string>
+    <string name="professor_horista">Professor Horista</string>
+    <string name="professor_titular">Professor Titular</string>
+    <string name="salario">salario: </string>
+</resources>
